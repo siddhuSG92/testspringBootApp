@@ -6,5 +6,8 @@ public class Model {
 		//changes related to HIS-134
 		return "" ;
 	}
+		public void calculate() {
+		//changes Related to HIS-122
+	}
 
 }
